@@ -1,5 +1,4 @@
 # Finetuning pretrained models on Squad 2
-# Script by https://github.com/huggingface/transformers/tree/master/examples/question-answering
 
 export SQUAD_TRAIN=squad2.0/train-v2.0.json
 export SQUAD_DEV=squad2.0/dev-v2.0.json
